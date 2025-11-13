@@ -1,0 +1,4 @@
+python -m venv venv
+venv\Scripts\activate
+pip install flask python-docx pandas openpyxl pillow
+python app_v21.py
